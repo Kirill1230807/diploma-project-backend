@@ -1,0 +1,6 @@
+[Вступ та науковий апарат](docs/0_intro.md)  
+[Thesis Proposal](docs/proposal.md)  
+[Для розділу 1](docs/1_analysis.md)  
+[Для розділу 2](docs/2_design.md)  
+[Для розділу 3](docs/3_implementation.md)  
+[Висновки](docs/4_conclusions.md)
